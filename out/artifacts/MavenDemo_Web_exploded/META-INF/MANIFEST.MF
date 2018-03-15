@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Built-By: 14520
+Class-Path: resources/ lib/blade-mvc-2.0.6-BETA.jar lib/blade-asm-0.0.
+ 1.jar lib/blade-log-0.0.6.jar lib/slf4j-api-1.7.21.jar lib/netty-code
+ c-http-4.1.18.Final.jar lib/netty-codec-4.1.18.Final.jar lib/netty-ha
+ ndler-4.1.18.Final.jar lib/netty-buffer-4.1.18.Final.jar lib/netty-co
+ mmon-4.1.18.Final.jar lib/netty-transport-4.1.18.Final.jar lib/netty-
+ resolver-4.1.18.Final.jar lib/sqlite-jdbc-3.15.1.jar lib/blade-jdbc-0
+ .2.2-RELEASE.jar lib/sql2o-1.6.0-RC3.jar lib/lombok-1.16.18.jar
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_161
+Main-Class: Application
+
